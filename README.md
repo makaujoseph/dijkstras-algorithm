@@ -1,4 +1,4 @@
-## Dijkstra's Algorithm
+# Dijkstra's Algorithm
 
 This is a description of how the executable for Dijkstra's algorithm works.
 
@@ -13,6 +13,6 @@ This is a description of how the executable for Dijkstra's algorithm works.
 4. Enter ending node (between 0 and n), program will calculate distance and show path between starting node and ending node.
    * Will repeat until user enters -1
   
-# Notes
+## Notes
 
 Lots of error checking was omitted (i.e. checking that number of nodes is between 1 and 20, checking that the ending node is valid, etc.) for the sake of simplicity. This program assumes all correct inputs.
